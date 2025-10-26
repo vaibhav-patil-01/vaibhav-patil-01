@@ -42,9 +42,6 @@
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
   </a>
-  <a href="https://www.redhat.com/en/topics/devops/what-is-ci-cd" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/external-flat-juicy-fish/344/external-ci-cd-devops-flat-flat-juicy-fish.png" alt="CI/CD" width="40" height="40"/>
-  </a>
   <a href="https://www.atlassian.com/agile" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/512/external-agile-agile-flaticons-flat-flat-icons.png" alt="Agile/Scrum" width="40" height="40"/>
   </a>
