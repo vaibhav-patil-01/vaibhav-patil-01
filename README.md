@@ -29,7 +29,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X (Twitter)" height="30" width="40" />
   </a>
 </p>
-
+<br>
 <p align="center">
   <a href="https://drive.google.com/file/d/1IuRIhwRAuM_PyZjP954Rcqhr9jOm9nFf/view?usp=drive_link" target="_blank">
   <img src="https://img.shields.io/badge/Resume-%230A66C2.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Resume"/>
