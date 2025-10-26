@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Patil</h1>
-<p align="center">A recent B.Tech graduate in Computer Science and Engineering from <img src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg" alt="India Flag" width="25" height="15"/> aspiring to build a career as a software developer.</p>
-<h3 align="center"> Passionate about full-stack development and cloud-native applications.</h3>
+<p align="center">A recent B.Tech graduate in Computer Science and Engineering aspiring to build a career as a software developer.</p>
+<h3 align="center">
+  Passionate about full-stack development and cloud-native applications
+  FROM <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="India Waving Flag" width="30" height="20"/> 
+</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Location-India-ff69b4?style=for-the-badge&logo=appveyor" alt="Location"/>
 </p>
