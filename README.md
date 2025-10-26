@@ -31,7 +31,7 @@
 </p>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1IuRIhwRAuM_PyZjP954Rcqhr9jOm9nFf/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1IuRIhwRAuM_PyZjP954Rcqhr9jOm9nFf/view?usp=drive_link" target="_blank">
   <img src="https://img.shields.io/badge/Resume-%230A66C2.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Resume"/>
 </a>
 
