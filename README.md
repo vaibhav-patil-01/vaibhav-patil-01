@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Patil</h1>
-<p align="center">A B.Tech graduate in Computer Science and Engineerin aspiring to build a career as a software developer.</p>
+<p align="center">A recent B.Tech graduate in Computer Science and Engineering aspiring to build a career as a software developer.</p>
 <h3 align="center"> Passionate about full-stack development and cloud-native applications.</h3>
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Location-India-ff69b4?style=for-the-badge&logo=appveyor" alt="Location"/>
+</p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vaibhav-patil-01&label=Profile%20views&color=4c8eda&style=for-the-badge&" alt="Profile Views" />
 </p>
