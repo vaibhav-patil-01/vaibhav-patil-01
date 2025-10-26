@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Vaibhav</h1>
-<div style="text-align: right;">
-  <a href="https://github.com/vaibhav-patil-01/vaibhav-patil-01/blob/main/Vaibhav_CV.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-%230A66C2.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Resume"/>
-  </a>
-</div>
-
 <p align="center">A recent graduate aspiring to pursue a career as a software developer.</p>
 <h3 align="center">A passionate developer from India</h3>
+
+<picture>
+  <source srcset="light-logo.svg" media="(prefers-color-scheme: light)">
+  <source srcset="dark-logo.svg" media="(prefers-color-scheme: dark)">
+  <img src="light-logo.svg" alt="Skill" width="40" height="40"/>
+</picture>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vaibhav-patil-01&label=Profile%20views&color=4c8eda&style=for-the-badge&" alt="Profile Views" />
