@@ -23,8 +23,14 @@
 </p>
 
 <p align="center">
+  <!-- GitHub-hosted Resume -->
   <a href="https://github.com/vaibhav-patil-01/vaibhav-patil-01/blob/main/Vaibhav_CV.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Resume-%230A66C2.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Resume"/>
+  </a>
+  &nbsp;
+  <!-- Google Drive Resume -->
+  <a href="https://drive.google.com/file/d/1IuRIhwRAuM_PyZjP954Rcqhr9jOm9nFf/view?usp=drivesdk" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-(Drive)-E4405F?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume Drive"/>
   </a>
 </p>
 
