@@ -3,7 +3,7 @@
 <h3 align="center">A passionate developer from India</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vaibhavapatil&label=Profile%20views&color=4c8eda&style=for-the-badge&" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=vaibhav-patil-01&label=Profile%20views&color=4c8eda&style=for-the-badge&" alt="Profile Views" />
 </p>
 
 <h3 align="center">Connect with me:</h3>
@@ -14,7 +14,7 @@
   <a href="https://auth.geeksforgeeks.org/user/vaibhavpatilvap" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksForGeeks" height="30" width="40" />
   </a>
-  <a href="https://leetcode.com/VaibhavAPatil/" target="_blank">
+  <a href="https://leetcode.com/u/vaibhav_patil_2003/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
   <a href="https://www.hackerrank.com/vaibhavpatil_vap" target="_blank">
