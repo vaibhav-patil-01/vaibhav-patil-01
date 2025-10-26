@@ -37,7 +37,7 @@
     <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" alt="Hibernate" width="40" height="40"/>
   </a>
   <a href="https://microservices.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/376356/microservices.svg" alt="Microservices" width="40" height="40"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" alt="Microservices" width="40" height="40"/>
   </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
