@@ -1,4 +1,10 @@
 <h1 align="center">Hi 👋, I'm Vaibhav</h1>
+<div style="text-align: right;">
+  <a href="https://github.com/vaibhav-patil-01/vaibhav-patil-01/blob/main/Vaibhav_CV.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-%230A66C2.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Resume"/>
+  </a>
+</div>
+
 <p align="center">A recent graduate aspiring to pursue a career as a software developer.</p>
 <h3 align="center">A passionate developer from India</h3>
 
