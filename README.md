@@ -1,12 +1,6 @@
-<h1 align="center">Hi 👋, I'm Vaibhav</h1>
-<p align="center">A recent graduate aspiring to pursue a career as a software developer.</p>
+<h1 align="center">Hi 👋, I'm Vaibhav Patil</h1>
+<p align="center">A B.Tech graduate in Computer Science and Engineering aspiring to build a career as a software developer. Passionate about full-stack development and cloud-native applications.</p>
 <h3 align="center">A passionate developer from India</h3>
-
-<picture>
-  <source srcset="light-logo.svg" media="(prefers-color-scheme: light)">
-  <source srcset="dark-logo.svg" media="(prefers-color-scheme: dark)">
-  <img src="light-logo.svg" alt="Skill" width="40" height="40"/>
-</picture>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vaibhav-patil-01&label=Profile%20views&color=4c8eda&style=for-the-badge&" alt="Profile Views" />
