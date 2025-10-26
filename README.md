@@ -39,6 +39,15 @@
   <a href="https://microservices.io/" target="_blank" rel="noreferrer">
     <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" alt="Microservices" width="40" height="40"/>
   </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
+  </a>
+  <a href="https://www.redhat.com/en/topics/devops/what-is-ci-cd" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/external-flat-juicy-fish/344/external-ci-cd-devops-flat-flat-juicy-fish.png" alt="CI/CD" width="40" height="40"/>
+  </a>
+  <a href="https://www.atlassian.com/agile" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/512/external-agile-agile-flaticons-flat-flat-icons.png" alt="Agile/Scrum" width="40" height="40"/>
+  </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
   </a>
@@ -65,9 +74,6 @@
   </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
   </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
@@ -102,6 +108,9 @@
   </a>
   <a href="https://swagger.io/tools/swagger-ui/" target="_blank" rel="noreferrer">
     <img src="https://static1.smartbear.co/swagger/media/assets/swagger_fav.png" alt="Swagger UI" width="40" height="40"/>
+  </a>
+  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="Jira" width="40" height="40"/>
   </a>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40" />
