@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg" alt="India Flag" width="40" height="25"/>
-  &nbsp;Hi 👋, I'm Vaibhav Patil
-</p>
 <h1 align="center">Hi 👋, I'm Vaibhav Patil</h1>
 <p align="center">A recent B.Tech graduate in Computer Science and Engineering aspiring to build a career as a software developer.</p>
 <h3 align="center"> Passionate about full-stack development and cloud-native applications.</h3>
