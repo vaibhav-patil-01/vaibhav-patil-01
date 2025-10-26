@@ -22,6 +22,12 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/vaibhav-patil-01/vaibhav-patil-01/blob/main/Vaibhav_CV.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-%230A66C2.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Resume"/>
+  </a>
+</p>
+
 <h3 align="center">Languages and Frameworks:</h3>
 <p align="center">
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
