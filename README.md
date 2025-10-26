@@ -4,8 +4,6 @@
   Passionate about full-stack development and cloud-native applications.
 </h3>
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg" alt="India Flag" width="25" height="15"/>
-  &nbsp;
   <img src="https://img.shields.io/badge/Location-India-ff69b4?style=for-the-badge&logo=appveyor" alt="Location"/>
 </p>
 
