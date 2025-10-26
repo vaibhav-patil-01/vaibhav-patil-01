@@ -17,7 +17,7 @@
   <a href="https://leetcode.com/u/vaibhav_patil_2003/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
-  <a href="https://www.hackerrank.com/vaibhavpatil_vap" target="_blank">
+  <a href="https://www.hackerrank.com/vsp9356769095" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
   </a>
 </p>
@@ -84,30 +84,30 @@
       srcset="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhav-patil-01&show_icons=true&theme=dark&layout=compact" 
       media="(prefers-color-scheme: dark)" />
     <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhavapatil&show_icons=true&theme=light&layout=compact" 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhav-patil-01&show_icons=true&theme=light&layout=compact" 
       media="(prefers-color-scheme: light)" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhavapatil&show_icons=true&layout=compact" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhav-patil-01&show_icons=true&layout=compact" alt="Top Languages" />
   </picture>
 </p>
 <p align="center">
   <picture>
     <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=vaibhavapatil&show_icons=true&theme=dark" 
+      srcset="https://github-readme-stats.vercel.app/api?username=vaibhav-patil-01&show_icons=true&theme=dark" 
       media="(prefers-color-scheme: dark)" />
     <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=vaibhavapatil&show_icons=true&theme=light" 
+      srcset="https://github-readme-stats.vercel.app/api?username=vaibhav-patil-01&show_icons=true&theme=light" 
       media="(prefers-color-scheme: light)" />
-    <img src="https://github-readme-stats.vercel.app/api?username=vaibhavapatil&show_icons=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=vaibhav-patil-01&show_icons=true" alt="GitHub Stats" />
   </picture>
 </p>
 <p align="center">
   <picture>
     <source 
-      srcset="https://github-readme-streak-stats.herokuapp.com?user=vaibhavapatil&theme=dark" 
+      srcset="https://github-readme-streak-stats.herokuapp.com?user=vaibhav-patil-01&theme=dark" 
       media="(prefers-color-scheme: dark)" />
     <source 
-      srcset="https://github-readme-streak-stats.herokuapp.com?user=vaibhavapatil&theme=light" 
+      srcset="https://github-readme-streak-stats.herokuapp.com?user=vaibhav-patil-01&theme=light" 
       media="(prefers-color-scheme: light)" />
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=vaibhavapatil" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=vaibhav-patil-01" alt="GitHub Streak" />
   </picture>
 </p>
