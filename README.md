@@ -81,7 +81,7 @@
 <p align="center">
   <picture>
     <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhavapatil&show_icons=true&theme=dark&layout=compact" 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhav-patil-01&show_icons=true&theme=dark&layout=compact" 
       media="(prefers-color-scheme: dark)" />
     <source 
       srcset="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhavapatil&show_icons=true&theme=light&layout=compact" 
