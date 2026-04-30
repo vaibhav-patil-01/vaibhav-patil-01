@@ -25,8 +25,8 @@ A B.Tech Computer Science graduate passionate about building scalable backend sy
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="tel:+919356769095">
-  <img src="https://img.shields.io/badge/Call-+91%209356769095-25D366?style=for-the-badge&logo=phone&logoColor=white" />
-  </a>
+  <img src="https://img.shields.io/badge/Call-0A66C2?style=for-the-badge&logo=phone&logoColor=white" />
+</a>
   <a href="https://leetcode.com/u/vaibhav_patil_2003/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
