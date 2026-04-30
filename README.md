@@ -24,6 +24,9 @@ A B.Tech Computer Science graduate passionate about building scalable backend sy
   <a href="mailto:vaibhavvpatil8@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="tel:+919356769095">
+  <img src="https://img.shields.io/badge/Call-+91%209356769095-25D366?style=for-the-badge&logo=phone&logoColor=white" />
+  </a>
   <a href="https://leetcode.com/u/vaibhav_patil_2003/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
@@ -33,7 +36,7 @@ A B.Tech Computer Science graduate passionate about building scalable backend sy
 </p>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1IuRIhwRAuM_PyZjP954Rcqhr9jOm9nFf/view" target="_blank">
+  <a href="https://drive.google.com/file/d/1EtDYIyJQRS5xFBabLwibWsT3dF44l4Hj/view?usp=drive_link" target="_blank">
     <img src="https://img.shields.io/badge/View%20Resume-111827?style=for-the-badge&logo=readme&logoColor=white" />
   </a>
 </p>
