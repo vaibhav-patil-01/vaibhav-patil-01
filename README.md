@@ -88,7 +88,7 @@ I am focused on Java backend development, Spring Boot applications, REST API des
 <h3 align="center">GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vaibhav-patil-01&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=vaibhav-patil-01&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -96,7 +96,7 @@ I am focused on Java backend development, Spring Boot applications, REST API des
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav-patil-01&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vaibhav-patil-01&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
